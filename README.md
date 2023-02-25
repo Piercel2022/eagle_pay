@@ -107,8 +107,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git clone https://github.com/Piercel2022/budget_app.git
-  cd budget_app
+  git clone https://github.com/Piercel2022/eagle_pay.git
+  cd eagle_pay
 ```
 
 ### Install
